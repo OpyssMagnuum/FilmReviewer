@@ -11,3 +11,4 @@ wheels/
 
 # Extra
 stuff_to_ignore.py
+media/*
